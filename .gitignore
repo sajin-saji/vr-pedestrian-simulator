@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.csproj
+*.sln
+
+# IDE
+.vscode/
+.idea/
+.vs/
+*.user
+*.tmp
